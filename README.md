@@ -41,4 +41,4 @@ Or this:
 Or even this:
 
 
-![](https://www.princesshome.eu/product/image/large/01.142354.01.001_4.jpg![image](https://user-images.githubusercontent.com/78368286/153039721-46ef9a04-9a69-40a8-ac1c-6eb93c3b266a.png))
+![](https://www.princesshome.eu/product/image/large/01.142354.01.001_4.jpg)
