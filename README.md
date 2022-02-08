@@ -17,10 +17,10 @@ The concept of the game is that you are an NSA agent during the cold war and hav
 
 
 Plattforms planned:
-- Mac Universal
+- Mac [Build available](https://github.com/NikTech06/Top-Secret-The-Sierra-Project/releases)
 - (Mac 32 bit)
 - (Mac PowerPc)
-- Windows high end
+- Windows high end [Build available](https://github.com/NikTech06/Top-Secret-The-Sierra-Project/releases)
 - (Windows low end 32 bit)
 - Debian Linux
 - Debian Linux 32 bit
